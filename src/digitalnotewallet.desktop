@@ -1,10 +1,10 @@
 [Desktop Entry]
 Encoding=UTF-8
-Name=DigitalNote Wallet
-Comment=DigitalNote wallet
-Exec=digitalnotewallet
+Name=Fakran Wallet
+Comment=Fakran wallet
+Exec=fakranwallet
 Terminal=false
 Type=Application
-Icon=digitalnote
-MimeType=x-scheme-handler/digitalnotewallet;
+Icon=fakranwallet
+MimeType=x-scheme-handler/fakranwallet;
 Categories=Office;Finance;
